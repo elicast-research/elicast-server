@@ -1,0 +1,9 @@
+**
+
+!requirements.txt
+!server.py
+
+!app/
+!configs/
+
+**/*.pyc

@@ -1,0 +1,5 @@
+[flake8]
+# W503 line break before binary operator
+# E731 do not assign a lambda expression, use a def
+ignore = W503,E731
+max-line-length = 120
